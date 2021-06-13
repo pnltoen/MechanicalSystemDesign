@@ -1,2 +1,2 @@
-# -AI-Based-fault-diagnosis-and-failure-prediction-of-Industrial-Robot-Arm
+# -MechanicalSystemDesign
 Kyonggi University (Team : F-ARM)
