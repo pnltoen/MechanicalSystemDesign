@@ -1,2 +1,2 @@
 # -MechanicalSystemDesign
-Kyonggi University (Team : F-ARM)
+Team : F-ARM
